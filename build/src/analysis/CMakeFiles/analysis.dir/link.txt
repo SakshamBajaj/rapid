@@ -1,0 +1,2 @@
+/usr/bin/ar qc libanalysis.a  CMakeFiles/analysis.dir/Semantics.cpp.o CMakeFiles/analysis.dir/SemanticsHelper.cpp.o CMakeFiles/analysis.dir/SemanticsInliner.cpp.o CMakeFiles/analysis.dir/AnalysisPreComputation.cpp.o CMakeFiles/analysis.dir/TraceLemmas.cpp.o CMakeFiles/analysis.dir/TheoryAxioms.cpp.o CMakeFiles/analysis.dir/ProgramTraverser.cpp.o CMakeFiles/analysis.dir/LemmasVariableValues.cpp.o CMakeFiles/analysis.dir/LemmasIterators.cpp.o CMakeFiles/analysis.dir/LemmasOther.cpp.o CMakeFiles/analysis.dir/LemmasTwoTraces.cpp.o
+/usr/bin/ranlib libanalysis.a

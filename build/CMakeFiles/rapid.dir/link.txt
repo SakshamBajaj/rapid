@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/rapid.dir/src/main.cpp.o  -o bin/rapid  src/analysis/libanalysis.a src/declarations/libdeclarations.a src/logic/liblogic.a src/parser/libparser.a src/program/libprogram.a src/util/libutil.a src/declarations/libdeclarations.a src/logic/liblogic.a src/program/libprogram.a src/util/libutil.a 

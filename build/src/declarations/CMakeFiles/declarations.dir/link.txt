@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdeclarations.a  CMakeFiles/declarations.dir/SymbolDeclarations.cpp.o
+/usr/bin/ranlib libdeclarations.a

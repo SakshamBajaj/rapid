@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/u9/s24bajaj/ura/rapid/src/util/Options.cpp
+Options.hpp
+/u9/s24bajaj/ura/rapid/src/util/Options.hpp
+iostream
+-
+string
+-
+utility
+-
+
+/u9/s24bajaj/ura/rapid/src/util/Options.hpp
+map
+-
+string
+-
+vector
+-
+
+/u9/s24bajaj/ura/rapid/src/util/Output.cpp
+Output.hpp
+/u9/s24bajaj/ura/rapid/src/util/Output.hpp
+fstream
+-
+iostream
+-
+string
+-
+Options.hpp
+/u9/s24bajaj/ura/rapid/src/util/Options.hpp
+
+/u9/s24bajaj/ura/rapid/src/util/Output.hpp
+iostream
+-
+
